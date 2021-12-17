@@ -1,0 +1,3 @@
+watermelon   200.0
+WATER   10.0
+-2010.0

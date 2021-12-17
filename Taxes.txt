@@ -1,0 +1,7 @@
+-----------------Taxes-----------------
+Employee ID: 2345      Employee Name: John
+Hourly pay: 0.0
+Yearly pay: 0.0
+Medicare Tax: 0.0
+State Tax: 0.0
+Federal Tax: 0.0
