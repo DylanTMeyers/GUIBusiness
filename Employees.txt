@@ -1,7 +1,0 @@
-1 bob 69.0 0.0 active ceo
-12 Dylan 20.0 10.0 active Boss
-23 joe 23.0 10.0 active boss
-2345 John 0.0 0.0 active CEO
-2334 Suad 12.0 20.0 active MEME-LORD
-3532 Arsalan 10.0 15.0 active GOD
-23453 Lauren 10.0 15.0 active Needs-absolutely-no-introduction
